@@ -27,8 +27,9 @@ void setup() {
   println("The third team is called TSM.");
   println();
   println("Team \t \t Wins \t \t Losses \t \t Points");
-  println(team1name + " \t" + team1wins + " \t \t " + team1losses + " \t \t " + team1points);
-  println(team2name + " \t \t" + team2wins + " \t \t " + team2losses + " \t \t " + team2points);
+  println(team1name + " \t " + team1wins + " \t \t " + team1losses + " \t \t " + team1points);
+  println(team2name + " \t \t " + team2wins + " \t \t " + team2losses + " \t \t " + team2points);
+  println(team3name + " \t \t " + team3wins + " \t \t " + team3losses + " \t \t " + team3points);
 }
 void draw() {
 }
