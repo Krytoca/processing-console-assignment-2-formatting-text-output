@@ -1,5 +1,5 @@
 /**
- * ascii_art_assignment
+ * text files assignment
  * by Caleb Kryton
  * 
  * This is a Computer Science 10 assignment with the purpose of 
