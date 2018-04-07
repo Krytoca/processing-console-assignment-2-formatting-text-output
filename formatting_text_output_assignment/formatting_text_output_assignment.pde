@@ -1,5 +1,5 @@
 /**
- * text files assignment
+ * formatting text assignment
  * by Caleb Kryton
  * 
  * This is a Computer Science 10 assignment with the purpose of 
