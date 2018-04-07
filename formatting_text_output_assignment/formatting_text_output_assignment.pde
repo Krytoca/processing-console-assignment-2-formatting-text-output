@@ -6,7 +6,7 @@
  * formatting text output into a table.
  * 
  */
- 
+
 void setup() {
   String team1name = "100 Thieves";
   String team2name = "Echo Fox";
@@ -25,8 +25,10 @@ void setup() {
   println("The first team is called 100 Thieves.");
   println("The second team is called Echo Fox.");
   println("The third team is called TSM.");
-  
+  println();
+  println("Team \t \t Wins \t \t Losses \t \t Points");
+  println(team1name + " \t" + team1wins + " \t \t " + team1losses + " \t \t " + team1points);
+  println(team2name + " \t \t" + team2wins + " \t \t " + team2losses + " \t \t " + team2points);
 }
-
 void draw() {
 }
