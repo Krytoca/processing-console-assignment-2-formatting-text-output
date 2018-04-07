@@ -22,9 +22,10 @@ void setup() {
   int team2points = team2wins *3;
   int team3points = team3wins *3;
 
-  println(team1name);
-  println(team2name);
-  println(team3name);
+  println("The first team is called 100 Thieves.");
+  println("The second team is called Echo Fox.");
+  println("The third team is called TSM.");
+  
 }
 
 void draw() {
